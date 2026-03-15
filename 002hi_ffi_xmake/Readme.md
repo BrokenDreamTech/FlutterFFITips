@@ -11,7 +11,7 @@
 > 一般CSDN会第一时间更新图文教程，后续会上传源码到Github和Gitcode上，最后再录视频教程发到哔哩哔哩，如果没时间的话可能不会录视频。
 >
 
-# Flutter FFI Tips
+# Flutter FFI中使用Xmake编译so后并导入项目使用
 
 #### 介绍：如题
 
@@ -29,49 +29,36 @@
 
 🟢温馨提示：如果图片无法加载请前往国内Gitcode镜像仓库
 
-Github：[https://github.com/BrokenDreamTech/FlutterFFITips](https://github.com/BrokenDreamTech/FlutterFFITips)
+Github：[https://github.com/BrokenDreamTech/UniAppxPack](https://github.com/BrokenDreamTech/UniAppxPack)
 
-Gitcode：[https://gitcode.com/BrokenDreamTech/FlutterFFITips](https://gitcode.com/BrokenDreamTech/FlutterFFITips)
+Gitcode：[https://gitcode.com/BrokenDreamTech/UniAppxPack](https://gitcode.com/BrokenDreamTech/UniAppxPack)
 
+
+## 特性
+
+- [x] 待定
+- [x] 待定
+- [x] 待定
+- [x] 待定
 
 
 ## 环境
 
 Android Studio 2025.3.2
 
-Flutter 3.35.8-ohos-0.0.2
+## 教程
 
-xmake 3.0.7
+#### 视频教程
 
-## 目录
+传送门：
 
-#### 视频导航
+#### 图文教程
 
 1. 待定
 
-#### 图文目录
-
-1. [ffi官方插件模板](001hi_ffi/README.md)
-
-2. [Flutter FFI中使用Xmake编译so后并导入项目使用](002hi_ffi_xmake/Readme.md)
-
-
-#### 常用命令
-
-```sh
-xmake f -p windows -a x64
-
-xmake f -p harmony --sdk=D:/sofe/devecostudio/sdk/default/openharmony/native --bin=D:/sofe/devecostudio/sdk/default/openharmony/native/llvm/bin
-
-
-flutter create --template=plugin_ffi --platforms=android,ios,windows,macos,linux,ohos hi_ffi
-
-flutter build windows
-
-flutter build apk --release --split-per-abi
-
-flutter build app --release
-```
+2. 待定
+   
+3. 待定
 
 
 

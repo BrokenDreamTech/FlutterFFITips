@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "hi_ffi_xmake",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+    ]
+  }
+}
