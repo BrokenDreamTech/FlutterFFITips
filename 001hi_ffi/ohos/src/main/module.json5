@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "hi_ffi",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+    ]
+  }
+}
